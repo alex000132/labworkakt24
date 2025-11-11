@@ -1,0 +1,11 @@
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\bin\Debug\UserRegistrationApp.exe.config
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\bin\Debug\UserRegistrationApp.exe
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\bin\Debug\UserRegistrationApp.pdb
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.RegistrationForm.resources
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.Properties.Resources.resources
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.csproj.GenerateResource.cache
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.exe
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.pdb
+C:\Users\leon0\Desktop\UserRegistrationApp\UserRegistrationApp\obj\Debug\UserRegistrationApp.exe.config
